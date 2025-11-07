@@ -24,12 +24,14 @@ while true; do
 done
 
 echo "Updating System and Installing Packages:"
-sudo pacman -Syu --needed hyprland kitty dunst pipewire wireplumber xdg-desktop-portal-hyprland hyprpolkitagent qt5-wayland qt6-wayland noto-fonts ttf-hack-nerd oft-font-awesome woff2-font-awesome waybar wofi dolphin chromium hyprlock hypridle hyprsunset hyprland-qt-support hyprtoolkit hyprutils hyprcursor pavucontrol power-profiles-daemon
+sudo pacman -Syu --needed hyprland kitty dunst pipewire wireplumber xdg-desktop-portal-hyprland hyprpolkitagent qt5-wayland qt6-wayland noto-fonts ttf-hack-nerd otf-font-awesome woff2-font-awesome waybar wofi dolphin chromium hyprlock hypridle hyprsunset hyprland-qt-support hyprtoolkit hyprutils hyprcursor pavucontrol power-profiles-daemon
 echo ""
 echo "Copying Configuration Files:"
 cp -vr ./resources/hypr/ ~/.config/
 cp -vr ./resources/waybar/ ~/.config/
+mkdir ~/.config/kitty/
 cp -v ./resources/kitty.conf ~/.config/kitty/
+mkdir -p ~/.local/share/icons/
 cp -vr ./resources/Bibata-Modern-Ice/ ~/.local/share/icons/
 echo ""
 echo "Congratulations! The Installation is complete. Please consider Rebooting your System. (It really helps!)"
