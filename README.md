@@ -9,7 +9,6 @@ A Hyprland Rice made by an useless idiot with too much spare time. The aim is to
 2. **This Script ONLY WORKS for Arch-Based Linux Distributions Using Pacman!**
 3. **This Script WILL OVERWRITE PREVIOUS CONFIG FILES, so PLEASE backup before preceding.**
 4. **This Script Comes with ABSOLUTELY NO WARRANTY,** (so please don't blame this useless failure if your machine starts a house fire.)
-<br>
 
 ## Installation Steps:
 *Alright, it was your choice to destroy such a fine computer...*
