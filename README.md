@@ -1,9 +1,13 @@
 # AnotherHyprlandDotfile
 A Hyprland Rice made by an useless idiot with too much spare time. The aim is to be extremely minimalistic and use only slightly modified versions of the default configurations.
 <br>
+![Fastfetch and 2 Kitty windows](https://github.com/AnotherAsianFailure/AnotherHyprlandDotfile/blob/main/images/scr2.png)
+<br>
+![Floating Kitty](https://github.com/AnotherAsianFailure/AnotherHyprlandDotfile/blob/main/images/scr1.png)
+<br>
+![2 Cats and 1 Metal](https://github.com/AnotherAsianFailure/AnotherHyprlandDotfile/blob/main/images/scr3.png)
 ## Install
 *Why would you want to ruin your Arch installation like this?!* <br>
-<br>
 ### Important Notes:
 1. **DO NOT RUN THIS SCRIPT AS ROOT!!!**
 2. **This Script ONLY WORKS for Arch-Based Linux Distributions Using Pacman!**
