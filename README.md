@@ -1,11 +1,15 @@
 # AnotherHyprlandDotfile
 A Hyprland Rice made by an useless idiot with too much spare time. The aim is to be extremely minimalistic and use only slightly modified versions of the default configurations.
-<br>
+<br><br>
+*Fastfetch*
 ![Fastfetch and 2 Kitty windows](https://github.com/AnotherAsianFailure/AnotherHyprlandDotfile/blob/main/images/scr2.png)
 <br>
+*Floating Window*
 ![Floating Kitty](https://github.com/AnotherAsianFailure/AnotherHyprlandDotfile/blob/main/images/scr1.png)
 <br>
+*Two Cats and One Metal*
 ![2 Cats and 1 Metal](https://github.com/AnotherAsianFailure/AnotherHyprlandDotfile/blob/main/images/scr3.png)
+*Note: The background/wallpaper is selected randomly on launch by Hyprland.*
 ## Install
 *Why would you want to ruin your Arch installation like this?!* <br>
 ### Important Notes:
