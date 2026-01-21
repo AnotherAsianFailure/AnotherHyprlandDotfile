@@ -9,7 +9,7 @@ A Hyprland Rice made by an useless idiot with too much spare time. The aim is to
 <br>
 *Two Cats and One Metal*
 ![2 Cats and 1 Metal](images/scr3.png)
-*Note: The background/wallpaper is selected randomly on launch by Hyprland.*
+*Note: The background/wallpaper is selected randomly on launch by Hyprland. (i sWeAR!)*
 ## Install
 *Extremely Simple, comes with neccesary softwares.* <br>
 ### Important Notes:
